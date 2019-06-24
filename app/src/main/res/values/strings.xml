@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExamploArquitetura</string>
+    <string name="error_text">There was an error fetching the data.</string>
+</resources>
